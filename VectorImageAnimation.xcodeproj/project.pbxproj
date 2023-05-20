@@ -11,6 +11,7 @@
 		F76E27CA2A192A380097DE9F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F76E27C92A192A380097DE9F /* ContentView.swift */; };
 		F76E27CC2A192A3A0097DE9F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F76E27CB2A192A3A0097DE9F /* Assets.xcassets */; };
 		F76E27CF2A192A3A0097DE9F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F76E27CE2A192A3A0097DE9F /* Preview Assets.xcassets */; };
+		F76E27D62A192A610097DE9F /* HeartShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = F76E27D52A192A610097DE9F /* HeartShape.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		F76E27C92A192A380097DE9F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F76E27CB2A192A3A0097DE9F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F76E27CE2A192A3A0097DE9F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F76E27D52A192A610097DE9F /* HeartShape.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HeartShape.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				F76E27C72A192A380097DE9F /* VectorImageAnimationApp.swift */,
+				F76E27D52A192A610097DE9F /* HeartShape.swift */,
 				F76E27C92A192A380097DE9F /* ContentView.swift */,
 				F76E27CB2A192A3A0097DE9F /* Assets.xcassets */,
 				F76E27CD2A192A3A0097DE9F /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F76E27D62A192A610097DE9F /* HeartShape.swift in Sources */,
 				F76E27CA2A192A380097DE9F /* ContentView.swift in Sources */,
 				F76E27C82A192A380097DE9F /* VectorImageAnimationApp.swift in Sources */,
 			);
